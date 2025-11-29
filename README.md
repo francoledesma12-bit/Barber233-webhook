@@ -18,3 +18,6 @@ The system handles client requests via multiple channels (WhatsApp, etc.), uses 
 
 ---
 *Created by: Franco Ledesma | Full Stack Developer & AI Solutions Architect*  Andromeda.-
+
+## Architecture Diagram: 40% Efficiency Gain
+![Barber 233 Appointment Automation Circuit] (Barbercircuito.png)
